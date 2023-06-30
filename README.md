@@ -25,11 +25,12 @@ To run this program, you need to have the following dependencies installed:
 - Scipy
 - Matplotlib
 - OpenCV
+- Pandas
 
 You can install these dependencies using `pip` by running the following command:
 
 ```bash
-pip install jupyterlab scikit-learn numpy matplotlib opencv-python scipy 
+pip install jupyterlab scikit-learn numpy matplotlib opencv-python scipy pandas
 ```
 
 Once the dependencies are installed, you can clone the repository and navigate to the project directory:
