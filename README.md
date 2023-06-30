@@ -35,8 +35,8 @@ pip install jupyterlab scikit-learn numpy matplotlib opencv-python scipy
 Once the dependencies are installed, you can clone the repository and navigate to the project directory:
 
 ```bash
-git clone https://github.com/your-username/your-repository.git
-cd your-repository
+git clone https://github.com/ayub1621/SVM-Segmentation.git
+cd SVM-Segmentation
 ```
 
 ## Usage
@@ -45,7 +45,7 @@ cd your-repository
    jupyter lab
    ```
 
-2. In Jupyter Lab, open the `image_segmentation.ipynb` notebook.
+2. In Jupyter Lab, open the `SVM_Segmentation.ipynb` notebook.
 
 3. Follow the instructions in the notebook to load and preprocess the dataset, train the SVM model, and perform image segmentation on test images.
 
